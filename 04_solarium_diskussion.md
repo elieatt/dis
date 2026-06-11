@@ -59,8 +59,8 @@
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass ein Solarium im Winter helfen kann, wenn man zu wenig Sonne bekommt, und so Depressionen verhindern kann.
-> Außerdem braucht der Körper Vitamin D, und Licht — auch im Solarium — hilft dabei, es zu produzieren.
+> Einerseits kann man feststellen, dass ein Solarium die Stimmung im Winter verbessern kann — viele Menschen fühlen sich nach einer Session energiegeladener und glücklicher.
+> Außerdem ist ein Solarium praktischer als eine Reise in ein sonniges Land, weil es günstig und jederzeit erreichbar ist.
 >
 > **Wie findest du das?**
 
@@ -70,9 +70,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite kann das Licht im Solarium die Haut schädigen und Hautkrebs verursachen — genau wie echte Sonne.
-> Auf der anderen Seite kann man bei vorsichtigem Gebrauch und einem sicheren Gerät von den Vorteilen profitieren.
-> Zusätzlich sollten Kinder, Jugendliche und Menschen mit empfindlicher Haut das Solarium ganz vermeiden.
+> Auf der einen Seite gibt es günstigere und sicherere Alternativen — zum Beispiel Vitamin-D-Tabletten oder eine Lichttherapielampe zu Hause.
+> Auf der anderen Seite nutzen manche Menschen das Solarium aus medizinischen Gründen, zum Beispiel bei Hauterkrankungen wie Schuppenflechte.
+> Zusätzlich sollte jeder Arzt fragen, bevor er ins Solarium geht — besonders wenn er Medikamente nimmt, die die Haut lichtempfindlich machen.
 >
 > **Was hältst du davon?**
 
@@ -80,9 +80,9 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass manche Solariumgeräte zu viel schädliche Strahlung haben und sehr gefährlich sein können.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass viele Menschen das Solarium zu oft besuchen und dabei das Risiko unterschätzen.
 >
-> Meiner Erfahrung nach habe ich gesehen, wie Bekannte das Solarium nur wegen der Bräune nutzten — und später ernste Hautprobleme bekamen.
+> Meiner Erfahrung nach habe ich gesehen, wie ein Bekannter das Solarium wöchentlich nutzte, um braun zu bleiben — bis sein Arzt ihm sagte, dass seine Haut bereits geschädigt war. Seitdem benutzt er eine Lichtlampe zu Hause.
 >
 > Alles in allem bin ich der Meinung, dass das Solarium im Winter sowohl nützlich als auch gefährlich ist.
 >

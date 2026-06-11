@@ -58,7 +58,7 @@
 >
 > Der Autor des Textes bringt seine Meinung zum Thema **„Verbot von Gewaltspielen"** zum Ausdruck und erörtert, dass nach Amokläufen in Deutschland viele das Verbot von Gewaltspielen gefordert haben. Aber viele fragen sich, ob ein Verbot wirklich hilft — denn nicht nur Spiele machen Jugendliche gewalttätig. Familie und Schule spielen eine viel wichtigere Rolle.
 >
-> Meiner Meinung nach ist das Verbot von Gewaltspielen sowohl **notwendig** als auch **umstritten**.
+> Meiner Meinung nach ist das Verbot von Gewaltspielen sowohl **wichtig** als auch **schwierig**.
 >
 > **Was denkst du darüber?**
 
@@ -68,8 +68,8 @@
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass solche Spiele Kindern zeigen, dass wer tötet stark und ein Gewinner ist — das beeinflusst das Denken junger Menschen sehr.
-> Außerdem würde ein Verbot Jugendliche schützen, weil sie dann keine gewalttätigen Figuren mehr als Vorbilder sehen.
+> Einerseits kann man feststellen, dass ein Verbot Eltern helfen würde, ihre Kinder besser zu schützen — viele Eltern wissen nicht, was ihre Kinder spielen.
+> Außerdem gibt es Beispiele aus anderen Ländern, wo strengere Regeln für Videospiele die Jugendgewalt reduziert haben.
 >
 > **Wie findest du das?**
 
@@ -79,9 +79,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite ist ein Verbot schwer umzusetzen und löst das Problem nicht wirklich, weil viele Faktoren zu Gewalt führen — nicht nur Spiele.
-> Auf der anderen Seite spielen Eltern und Lehrer eine viel wichtigere Rolle als Computerspiele.
-> Zusätzlich hätten Jugendliche, die andere Hobbys haben, keine Lust, gewalttätigen Figuren ähnlich zu sein.
+> Auf der einen Seite ist ein Verbot im Internet-Zeitalter kaum durchsetzbar — Jugendliche können Spiele einfach online herunterladen.
+> Auf der anderen Seite könnte man statt eines Verbots bessere Alterskontrollen und Aufklärung in Schulen einführen.
+> Zusätzlich zeigen Studien, dass Sport und kreative Hobbys Aggression viel effektiver reduzieren als jedes Verbot.
 >
 > **Was hältst du davon?**
 
@@ -89,11 +89,11 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass brutale Spiele gefährliche Gedanken im Kopf von Kindern hinterlassen können, die sie manchmal auf das echte Leben übertragen.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass ein Verbot allein nichts bringt, wenn das eigentliche Problem in der Familie oder in der Schule liegt.
 >
-> Meiner Erfahrung nach habe ich gesehen, wie einsame Jugendliche stundenlang solche Spiele spielten und dabei aggressiver wurden. Hätte die Familie mehr Zeit mit ihnen verbracht, wäre es anders gewesen.
+> Meiner Erfahrung nach habe ich gesehen, wie Jugendliche, die aktiv Sport getrieben haben, viel ruhiger und ausgeglichener waren — ganz ohne ein Verbot von Spielen.
 >
-> Alles in allem bin ich der Meinung, dass das Verbot von Gewaltspielen sowohl notwendig als auch umstritten ist.
+> Alles in allem bin ich der Meinung, dass das Verbot von Gewaltspielen sowohl wichtig als auch schwierig ist.
 >
 > **Was ist deine Meinung dazu?**
 
