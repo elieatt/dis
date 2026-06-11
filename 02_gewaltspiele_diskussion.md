@@ -56,7 +56,7 @@
 
 > In diesem Text wird das Thema **„Verbot von Gewaltspielen Pro und Kontra"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Verbot von Gewaltspielen"** zum Ausdruck und erörtert, dass nach mehreren Amokläufen in Deutschland das Verbot von Gewaltspielen gefordert wurde — obwohl unklar ist, ob ein solches Verbot tatsächlich Wirkung zeigen würde, da die Ursachen von Jugendgewalt komplex sind und das soziale Umfeld eine entscheidende Rolle spielt.
+> Der Autor des Textes bringt seine Meinung zum Thema **„Verbot von Gewaltspielen"** zum Ausdruck und erörtert, dass nach Amokläufen in Deutschland viele das Verbot von Gewaltspielen gefordert haben. Aber viele fragen sich, ob ein Verbot wirklich hilft — denn nicht nur Spiele machen Jugendliche gewalttätig. Familie und Schule spielen eine viel wichtigere Rolle.
 >
 > Meiner Meinung nach ist das Verbot von Gewaltspielen sowohl **notwendig** als auch **umstritten**.
 >
@@ -68,8 +68,8 @@
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass Kinder in solchen Spielen virtuelle Vorbilder sehen, die Mord und Stärke verherrlichen — was das Denken junger Menschen nachhaltig beeinflussen kann.
-> Außerdem würde ein Verbot Jugendliche vor schädlichen Inhalten schützen und dazu beitragen, dass sie keine gewaltbereiten Pseudo-Helden vor Augen haben.
+> Einerseits kann man feststellen, dass solche Spiele Kindern zeigen, dass wer tötet stark und ein Gewinner ist — das beeinflusst das Denken junger Menschen sehr.
+> Außerdem würde ein Verbot Jugendliche schützen, weil sie dann keine gewalttätigen Figuren mehr als Vorbilder sehen.
 >
 > **Wie findest du das?**
 
@@ -79,9 +79,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite ist ein solches Verbot kaum umsetzbar und würde am eigentlichen Ziel vorbeigehen, da es komplexe Prozesse sind, die zu Gewalt führen — und nicht allein die Spiele.
-> Auf der anderen Seite spielt das soziale Umfeld des Kindes, besonders Eltern und Lehrer, eine viel entscheidendere Rolle als Computerspiele allein.
-> Zusätzlich würden Jugendliche, die statt Gewaltspielen auf gewaltfreie Freizeitaktivitäten zurückgreifen, viel weniger Lust verspüren, gewalttätigen Figuren nachzueifern.
+> Auf der einen Seite ist ein Verbot schwer umzusetzen und löst das Problem nicht wirklich, weil viele Faktoren zu Gewalt führen — nicht nur Spiele.
+> Auf der anderen Seite spielen Eltern und Lehrer eine viel wichtigere Rolle als Computerspiele.
+> Zusätzlich hätten Jugendliche, die andere Hobbys haben, keine Lust, gewalttätigen Figuren ähnlich zu sein.
 >
 > **Was hältst du davon?**
 
@@ -89,9 +89,9 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass brutale Spiele im heranwachsenden Gehirn gefährliche Denkmuster verankern können, die — unter Einfluss anderer Faktoren — fälschlicherweise in die Wirklichkeit projiziert werden.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass brutale Spiele gefährliche Gedanken im Kopf von Kindern hinterlassen können, die sie manchmal auf das echte Leben übertragen.
 >
-> Meiner Erfahrung nach habe ich in meiner Umgebung gesehen, wie Jugendliche, die sich einsam fühlten, stundenlang solche Spiele spielten — und dabei immer aggressiver wurden. Wenn ihre Familien mehr Zeit mit ihnen verbracht hätten, wäre es wohl anders gelaufen.
+> Meiner Erfahrung nach habe ich gesehen, wie einsame Jugendliche stundenlang solche Spiele spielten und dabei aggressiver wurden. Hätte die Familie mehr Zeit mit ihnen verbracht, wäre es anders gewesen.
 >
 > Alles in allem bin ich der Meinung, dass das Verbot von Gewaltspielen sowohl notwendig als auch umstritten ist.
 >

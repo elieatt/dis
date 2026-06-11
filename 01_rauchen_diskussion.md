@@ -4,9 +4,9 @@
 
 > In diesem Text wird das Thema **„Wie entwickelt sich das Rauchen in Deutschland?"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Wie entwickelt sich das Rauchen in Deutschland?"** zum Ausdruck und erörtert, dass Rauchen eine magische Anziehung auf Jugendliche ausübt, weil es mit Erwachsensein verbunden wird. Obwohl es insgesamt immer weniger Raucher gibt, nimmt die Zahl der gerauchten Zigaretten weiterhin zu, und Jugendliche fangen immer früher mit dem Rauchen an.
+> Der Autor des Textes bringt seine Meinung zum Thema **„Wie entwickelt sich das Rauchen in Deutschland?"** zum Ausdruck und erörtert, dass Rauchen für viele Jugendliche attraktiv ist, weil sie sich dabei erwachsen und frei fühlen. Obwohl es insgesamt weniger Raucher gibt, fangen Jugendliche immer früher mit dem Rauchen an.
 >
-> Meiner Meinung nach ist das Rauchen sowohl **schädlich** als auch **besorgniserregend**.
+> Meiner Meinung nach ist das Rauchen sowohl **schädlich** als auch **gefährlich**.
 >
 > **Was denkst du darüber?**
 
@@ -17,7 +17,7 @@
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
 > Einerseits kann man feststellen, dass Jugendliche sich durch das Rauchen erwachsener und unabhängiger fühlen.
-> Außerdem kann das Rauchen das soziale Ansehen innerhalb einer Gruppe erhöhen.
+> Außerdem wirkt Rauchen in einer Gruppe cool und macht Jugendliche bei anderen beliebter.
 >
 > **Wie findest du das?**
 
@@ -27,9 +27,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite sind Raucher in Wirklichkeit schwach, nervös und kränklich — der Zauber entpuppt sich als Illusion.
+> Auf der einen Seite sind Raucher oft krank und nervös — das coole Bild vom Rauchen ist also falsch.
 > Auf der anderen Seite fühlen sich Jugendliche durch das Rauchen freier und unabhängiger.
-> Zusätzlich verführt die Werbung, besonders in Filmen, Jugendliche dazu, rauchenden Vorbildern nachzueifern.
+> Zusätzlich zeigen Filme und Werbung Rauchen als etwas Cooles, und Jugendliche wollen das nachmachen.
 >
 > **Was hältst du davon?**
 
@@ -37,11 +37,11 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass Rauchen süchtig macht und die Gesundheit ernsthaft schädigt.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass Rauchen süchtig macht und die Gesundheit stark schädigt.
 >
-> Meiner Erfahrung nach habe ich in meiner Umgebung gesehen, wie Jugendliche mit dem Rauchen anfingen, nur um dazuzugehören — und es später sehr bereut haben.
+> Meiner Erfahrung nach habe ich gesehen, wie Jugendliche mit dem Rauchen anfingen, nur um zur Gruppe zu gehören — und es später sehr bereut haben.
 >
-> Alles in allem bin ich der Meinung, dass das Rauchen sowohl schädlich als auch besorgniserregend ist.
+> Alles in allem bin ich der Meinung, dass das Rauchen sowohl schädlich als auch gefährlich ist.
 >
 > **Was ist deine Meinung dazu?**
 

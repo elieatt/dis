@@ -47,9 +47,9 @@
 
 > In diesem Text wird das Thema **„Solarium im Winter — Gut für die Gesundheit?"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Solarium im Winter"** zum Ausdruck und erörtert, dass Sonnenlicht für das Wohlbefinden und die Vitamin-D-Produktion unerlässlich ist — ein Solarium kann diesen Mangel im Winter ausgleichen, birgt jedoch auch Risiken wie Hautzellschäden und Hautkrebs, vor denen Ärzte und Gesundheitsorganisationen ausdrücklich warnen.
+> Der Autor des Textes bringt seine Meinung zum Thema **„Solarium im Winter"** zum Ausdruck und erörtert, dass Sonnenlicht für Gesundheit und gute Laune sehr wichtig ist, und ein Solarium im Winter helfen kann, diesen Mangel auszugleichen. Aber Ärzte warnen: Solarien können die Haut schädigen und Hautkrebs verursachen.
 >
-> Meiner Meinung nach ist das Solarium im Winter sowohl **nützlich** als auch **gesundheitsgefährdend**.
+> Meiner Meinung nach ist das Solarium im Winter sowohl **nützlich** als auch **gefährlich**.
 >
 > **Was denkst du darüber?**
 
@@ -59,8 +59,8 @@
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass ein Solarium im Winter den Mangel an natürlichem Sonnenlicht ausgleichen und dabei helfen kann, Depressionen und Lustlosigkeit zu bekämpfen.
-> Außerdem fördert Sonnenlicht die Vitamin-D-Produktion, die für die Gesundheit des Körpers unerlässlich ist.
+> Einerseits kann man feststellen, dass ein Solarium im Winter helfen kann, wenn man zu wenig Sonne bekommt, und so Depressionen verhindern kann.
+> Außerdem braucht der Körper Vitamin D, und Licht — auch im Solarium — hilft dabei, es zu produzieren.
 >
 > **Wie findest du das?**
 
@@ -70,9 +70,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite kann das künstliche Licht im Solarium — genau wie die natürliche Sonne — Hautzellen schädigen und Hautkrebs auslösen, weshalb Gesundheitsorganisationen vor kosmetischen Solarienbesuchen warnen.
-> Auf der anderen Seite kann man mit einem Gerät mit niedriger Strahlenbelastung und maßvollem Gebrauch die positiven Wirkungen genießen, ohne große Risiken einzugehen.
-> Zusätzlich sollten besonders Kinder, Jugendliche und Menschen mit empfindlicher Haut Solarien gänzlich meiden.
+> Auf der einen Seite kann das Licht im Solarium die Haut schädigen und Hautkrebs verursachen — genau wie echte Sonne.
+> Auf der anderen Seite kann man bei vorsichtigem Gebrauch und einem sicheren Gerät von den Vorteilen profitieren.
+> Zusätzlich sollten Kinder, Jugendliche und Menschen mit empfindlicher Haut das Solarium ganz vermeiden.
 >
 > **Was hältst du davon?**
 
@@ -80,11 +80,11 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass manche Geräte einen zu hohen Anteil an gesundheitsschädigenden Strahlen haben und damit ein ernstes Risiko darstellen.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass manche Solariumgeräte zu viel schädliche Strahlung haben und sehr gefährlich sein können.
 >
-> Meiner Erfahrung nach habe ich in meiner Umgebung gesehen, wie Menschen das Solarium regelmäßig nur aus kosmetischen Gründen nutzten — ohne sich über die Risiken zu informieren. Mit der Zeit bekamen einige von ihnen ernste Hautprobleme, die hätten vermieden werden können.
+> Meiner Erfahrung nach habe ich gesehen, wie Bekannte das Solarium nur wegen der Bräune nutzten — und später ernste Hautprobleme bekamen.
 >
-> Alles in allem bin ich der Meinung, dass das Solarium im Winter sowohl nützlich als auch gesundheitsgefährdend ist.
+> Alles in allem bin ich der Meinung, dass das Solarium im Winter sowohl nützlich als auch gefährlich ist.
 >
 > **Was ist deine Meinung dazu?**
 

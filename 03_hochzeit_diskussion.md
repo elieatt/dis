@@ -65,7 +65,7 @@
 
 > In diesem Text wird das Thema **„Hochzeit nur zu zweit"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Hochzeit nur zu zweit"** zum Ausdruck und erörtert, dass ein Paar aus Marburg heimlich an der Nordseeküste geheiratet hat — ohne Familie und Freunde einzuladen. Viele Deutsche teilen diesen Wunsch nach einer bescheidenen Hochzeit: 38 Prozent würden höchstens 5.000 Euro ausgeben und neun Prozent sogar nur bis zu 1.000 Euro.
+> Der Autor des Textes bringt seine Meinung zum Thema **„Hochzeit nur zu zweit"** zum Ausdruck und erörtert, dass ein Paar aus Marburg ohne Gäste geheiratet hat — nur mit einem Standesbeamten und einem Fotografen. Viele Deutsche wollen so eine kleine Hochzeit: 38 Prozent würden maximal 5.000 Euro ausgeben.
 >
 > Meiner Meinung nach ist eine Hochzeit nur zu zweit sowohl **mutig** als auch **umstritten**.
 >
@@ -77,8 +77,8 @@
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass eine kleine Hochzeit das Paar finanziell entlastet und ihnen erlaubt, sich ganz auf den bedeutsamsten Moment ihres Lebens zu konzentrieren.
-> Außerdem ist eine Zeremonie zu zweit intimer und persönlicher — genau so, wie sich viele Paare ihren besonderen Tag wirklich vorstellen.
+> Einerseits kann man feststellen, dass eine kleine Hochzeit weniger Geld kostet und das Paar sich ganz auf diesen besonderen Moment konzentrieren kann.
+> Außerdem ist eine Hochzeit zu zweit persönlicher und ruhiger — genau so, wie sich viele Paare ihren besonderen Tag vorstellen.
 >
 > **Wie findest du das?**
 
@@ -88,9 +88,9 @@
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite werden Familie und Freunde von einem der wichtigsten Momente ausgeschlossen, was zu Enttäuschung und verletzten Gefühlen führen kann — wie das Paar Witte selbst befürchtet.
-> Auf der anderen Seite hat jedes Paar das Recht, frei zu entscheiden, wie es seinen wichtigsten Tag gestalten möchte, ohne den Erwartungen anderer entsprechen zu müssen.
-> Zusätzlich zeigen Umfragen, dass viele Deutsche ohnehin eine sparsame Einstellung zur Hochzeit haben — was beweist, dass dieser Wunsch weit verbreitet ist.
+> Auf der einen Seite werden Familie und Freunde nicht eingeladen, was sie enttäuschen kann — wie das Paar Witte selbst zugegeben hat.
+> Auf der anderen Seite hat jedes Paar das Recht, selbst zu entscheiden, wie sie heiraten wollen — ohne auf andere Rücksicht zu nehmen.
+> Zusätzlich zeigen Umfragen, dass viele Deutsche bei der Hochzeit sparen wollen — dieser Wunsch ist also sehr verbreitet.
 >
 > **Was hältst du davon?**
 
@@ -98,7 +98,7 @@
 
 ## Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass das Fernhalten der Familie langfristig das Vertrauen und den Zusammenhalt beschädigen kann.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass die Familie nicht einzuladen das Vertrauen und die Beziehung langfristig schädigen kann.
 >
 > Meiner Erfahrung nach habe ich in meiner Umgebung gesehen, wie aufwendige Hochzeiten Familien finanziell belastet haben — und das Paar danach jahrelang Schulden abzahlen musste. Eine bescheidene Feier wäre dort die bessere Wahl gewesen.
 >
