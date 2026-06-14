@@ -13,7 +13,9 @@ du tauschst nur den Inhalt an den markierten Stellen aus.
 
 ### 1. Einleitung
 > Wie ich den Text verstanden habe, geht es um das Thema „**[THEMA]**".
-> **[Worum geht es? 1–2 Sätze: „Der Autor erläutert / erklärt / stellt dar, dass …"]**
+> **[Satz 1: „Der Autor erläutert / erklärt / stellt dar, dass …"]**
+> **[Satz 2: „Außerdem wird dargestellt / erklärt, …"]**
+> **[Satz 3: „Darüber hinaus …"]**
 
 ### 2. Vor- und Nachteile
 > Wie bei vielen anderen Themen gibt es auch hier sowohl Vorteile als auch Nachteile, die man berücksichtigen sollte.
@@ -55,7 +57,7 @@ du tauschst nur den Inhalt an den markierten Stellen aus.
 
 | Block | Was du brauchst |
 |---|---|
-| Einleitung | 1–2 Sätze: Worum geht es im Text? |
+| Einleitung | 3 Sätze: Worum geht es im Text? |
 | Vorteile | 2 Vorteile |
 | Nachteile | 2 Nachteile |
 | Persönliche Erfahrung | 1 kurze Geschichte aus deinem Leben |
