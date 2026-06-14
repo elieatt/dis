@@ -1,79 +1,99 @@
 # Diskussion (V3): Solarium im Winter – Gut für die Gesundheit?
 
-> **Format:** Monolog (Modellantwort) — dein vorbereiteter Redebeitrag für Teil 2.
-> Nummerierte Sätze **(N)** = der themenspezifische Inhalt zum Auswendiglernen (**12 Sätze**).
-> Nicht nummerierte Sätze = festes Gerüst (für jedes Thema gleich).
+## النص الأصلي مع الترجمة
+
+**1.** Menschen brauchen Sonnenlicht für ihr Wohlbefinden.
+الناس يحتاجون إلى ضوء الشمس لشعورهم بالعافية.
+
+**2.** Wenn im Winter die Sonne nur kurz scheint, wirkt sich das oft negativ aus.
+عندما تسطع الشمس في الشتاء لفترة قصيرة فقط، فإن ذلك غالباً ما يؤثر سلباً على الناس.
+
+**3.** Nicht umsonst neigen immer mehr Menschen in Nordeuropa im Winter zu Depressionen und Lustlosigkeit.
+وليس بدون سبب يميل المزيد والمزيد من الناس في شمال أوروبا في الشتاء إلى الاكتئاب وفقدان الرغبة في الحياة.
+
+**4.** Doch nicht nur für das Wohlbefinden ist Sonnenlicht wichtig, sondern auch für die Produktion von Vitamin D.
+لكن ضوء الشمس مهم ليس فقط للشعور بالعافية، بل أيضاً لإنتاج فيتامين د.
+
+**5.** Also hat ein Solarium nur Vorteile? Nein, meinen zum Beispiel Ärzte, man muss — wie auch bei der echten Sonne — vorsichtig sein.
+إذاً هل للسولاريوم مزايا فقط؟ لا، يرى الأطباء مثلاً أنه يجب أن يكون الإنسان حذراً — كما هو الحال مع الشمس الحقيقية.
+
+**6.** Genau wie die natürliche Sonne kann Licht im Solarium Hautzellen schädigen und Hautkrebs auslösen.
+تماماً كالشمس الطبيعية، يمكن لضوء السولاريوم أن يتلف خلايا الجلد ويسبب سرطان الجلد.
+
+**7.** Auch Gesundheitsorganisationen und Krankenkassen warnen vor Solarienbesuchen zu kosmetischen Zwecken.
+وتحذر أيضاً منظمات الصحة وصناديق التأمين الصحي من زيارة السولاريوم لأغراض تجميلية.
+
+**8.** Außerdem sind manche Geräte gefährlich, denn der Anteil an gesundheitsschädigenden Strahlen ist zu hoch.
+علاوة على ذلك، بعض الأجهزة خطيرة لأن نسبة الإشعاعات الضارة بالصحة فيها مرتفعة جداً.
+
+**9.** Wählen Sie lieber ein Gerät mit niedriger Strahlenbelastung — dann müssen Sie auch keine Angst haben, im Winter plötzlich wie ein Brathähnchen auszusehen!
+اختر جهازاً بمستوى إشعاع منخفض — وبذلك لن تقلق من أن تبدو فجأة في الشتاء كالدجاجة المشوية!
+
+**10.** Besonders Kinder und Jugendliche sind aufgrund ihrer empfindlichen Haut gefährdet und sollen gar nicht ins Solarium gehen.
+الأطفال والمراهقون بشكل خاص معرضون للخطر بسبب بشرتهم الحساسة، وينبغي ألا يذهبوا إلى السولاريوم إطلاقاً.
+
+**11.** Auch Menschen mit sehr heller oder empfindlicher Haut sollen sich nicht dem künstlichen Licht im Solarium aussetzen.
+كذلك لا ينبغي للأشخاص ذوي البشرة الفاتحة جداً أو الحساسة التعرض للضوء الاصطناعي في السولاريوم.
+
+**12.** Aus diesen Gründen gehen viele Deutsche im Winter in das Sonnenstudio oder Solarium.
+لهذه الأسباب، يذهب كثير من الألمان في الشتاء إلى استوديو الشمس أو السولاريوم.
+
+**13.** Die meisten Besucher nutzen das Solarium jedoch, um immer so schön braun zu sein wie nach einem Spanienurlaub.
+غير أن معظم الزوار يستخدمون السولاريوم ليبقوا دائماً بلون بني جميل كما بعد إجازة في إسبانيا.
 
 ---
 
-## Modellantwort
+## Modellantwort (Monolog)
+
+> **Nummerierte Sätze (N) = themenspezifischer Inhalt zum Auswendiglernen (12 Sätze). Nicht nummerierte Sätze = festes Gerüst.**
 
 ### 1. Einleitung
 
 > Wie ich den Text verstanden habe, geht es um das Thema „Solarium im Winter – Gut für die Gesundheit?".
-> كما فهمت النص، فهو يتحدث عن موضوع "الحمام الشمسي في الشتاء – هل هو مفيد للصحة؟".
 >
 > **(1)** Der Autor erklärt, warum viele Menschen im Winter ein Solarium besuchen.
-> الكاتب يشرح لماذا يزور الكثير من الناس الحمام الشمسي في فصل الشتاء.
 >
 > **(2)** Außerdem wird dargestellt, welche Vorteile und Risiken ein Solarium haben kann.
-> كما يوضح الفوائد والمخاطر التي قد يسببها الحمام الشمسي.
 >
 > **(3)** Darüber hinaus weist der Autor darauf hin, dass Ärzte und Krankenkassen vor zu häufigen Solariumbesuchen warnen.
-> وفوق ذلك يشير الكاتب إلى أن الأطباء وصناديق التأمين الصحي يحذرون من الإفراط في زيارة الحمام الشمسي.
 
 ### 2. Vor- und Nachteile
 
 > Wie bei vielen anderen Themen gibt es auch hier sowohl Vorteile als auch Nachteile, die man berücksichtigen sollte.
-> كما هو الحال في العديد من المواضيع الأخرى، توجد هنا أيضًا إيجابيات وسلبيات يجب أخذها بعين الاعتبار.
 >
 > **(4)** Einerseits kann ein Solarium im Winter das Wohlbefinden verbessern und gegen schlechte Laune helfen.
-> من جهة، يمكن أن يحسن الحمام الشمسي الحالة النفسية في الشتاء ويساعد في التخلص من المزاج السيئ.
 >
 > **(5)** Außerdem ist es eine gute Alternative für Menschen, die nur wenig Sonnenlicht bekommen.
-> كما أنه بديل جيد للأشخاص الذين لا يحصلون على ما يكفي من أشعة الشمس.
 >
 > Andererseits sollte man die möglichen Nachteile nicht außer Acht lassen.
-> ومن جهة أخرى لا ينبغي تجاهل السلبيات المحتملة.
 >
 > **(6)** Zum Beispiel können die UV-Strahlen die Haut schädigen und Hautkrebs verursachen.
-> فمثلًا قد تضر الأشعة فوق البنفسجية بالجلد وقد تسبب سرطان الجلد.
 >
 > **(7)** Darüber hinaus können Solarium und starke Sonneneinstrahlung auch negative Auswirkungen auf die Augen haben.
-> وفوق ذلك قد يكون للحمام الشمسي وأشعة الشمس القوية تأثيرات سلبية على العينين.
 >
 > Aus diesem Grund sollte man ein Solarium nur vorsichtig und nicht zu oft nutzen.
-> ولهذا السبب يجب استخدام الحمام الشمسي بحذر وعدم الإفراط في استخدامه.
 
 ### 3. Persönliche Erfahrung
 
 > **(8)** Ich persönlich habe noch nie ein Solarium besucht.
-> أنا شخصيًا لم أزر الحمام الشمسي من قبل.
 
 ### 4. Vergleich mit dem Heimatland
 
 > Wenn ich dieses Thema mit meinem Heimatland vergleiche, fallen mir einige Unterschiede auf.
-> عندما أقارن هذا الموضوع ببلدي، ألاحظ بعض الاختلافات.
 >
 > **(9)** In meinem Heimatland scheint die Sonne oft das ganze Jahr über.
-> في بلدي تسطع الشمس غالبًا طوال العام.
 >
 > **(10)** Deshalb brauchen viele Menschen kein Solarium, um genügend Sonnenlicht zu bekommen.
-> لذلك لا يحتاج الكثير من الناس إلى الحمام الشمسي للحصول على ما يكفي من ضوء الشمس.
 
 ### 5. Fazit
 
 > Abschließend möchte ich sagen, dass das Solarium sowohl Vor- als auch Nachteile hat.
-> في الختام أود أن أقول إن للحمام الشمسي إيجابيات وسلبيات.
 >
 > **(11)** Meiner Meinung nach kann es im Winter hilfreich sein, wenn man es verantwortungsvoll nutzt.
-> برأيي يمكن أن يكون مفيدًا في الشتاء إذا تم استخدامه بمسؤولية.
 >
 > **(12)** Wichtig ist, dass man auf seine Gesundheit achtet und die Risiken nicht unterschätzt.
-> المهم هو الاهتمام بالصحة وعدم الاستهانة بالمخاطر.
 >
 > Letztendlich sollte jeder selbst entscheiden, ob ein Solarium für ihn sinnvoll ist oder nicht.
-> وفي النهاية يجب على كل شخص أن يقرر بنفسه ما إذا كان الحمام الشمسي مناسبًا له أم لا.
 
 ---
 

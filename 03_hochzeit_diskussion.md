@@ -1,4 +1,4 @@
-# Diskussion: Hochzeit nur zu zweit
+# Diskussion (V1): Hochzeit nur zu zweit
 
 ## النص الأصلي مع الترجمة
 
@@ -61,11 +61,17 @@
 
 ---
 
-## Person A — Eröffnung
+## Diskussion (Dialog)
+
+> **Nummerierte Sätze (N) = themenspezifischer Inhalt zum Auswendiglernen (10 Sätze). Nicht nummerierte Sätze = festes Gerüst.**
+
+### Person A — Eröffnung
 
 > In diesem Text wird das Thema **„Hochzeit nur zu zweit"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Hochzeit nur zu zweit"** zum Ausdruck und erörtert, dass ein Paar aus Marburg ohne Gäste geheiratet hat — nur mit einem Standesbeamten und einem Fotografen. Viele Deutsche wollen so eine kleine Hochzeit: 38 Prozent würden maximal 5.000 Euro ausgeben.
+> Der Autor des Textes bringt seine Meinung zum Thema zum Ausdruck und erörtert, dass
+> **(1)** ein Paar aus Marburg ohne Gäste geheiratet hat — nur mit einem Standesbeamten und einem Fotografen.
+> **(2)** Viele Deutsche wollen so eine kleine Hochzeit: 38 Prozent würden maximal 5.000 Euro ausgeben.
 >
 > Meiner Meinung nach ist eine Hochzeit nur zu zweit sowohl **persönlich** als auch **riskant**.
 >
@@ -73,34 +79,36 @@
 
 ---
 
-## Person B — Erste Reaktion
+### Person B — Erste Reaktion
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass eine kleine Hochzeit viel weniger Stress bedeutet — kein langer Planungsprozess, keine schwierigen Entscheidungen über die Gästeliste.
-> Außerdem kann das Paar das gesparte Geld für etwas Sinnvolleres nutzen, zum Beispiel für eine Wohnung oder eine lange Reise.
+> **(3)** Einerseits kann man feststellen, dass eine kleine Hochzeit viel weniger Stress bedeutet — kein langer Planungsprozess, keine schwierigen Entscheidungen über die Gästeliste.
+> **(4)** Außerdem kann das Paar das gesparte Geld für etwas Sinnvolleres nutzen, zum Beispiel für eine Wohnung oder eine lange Reise.
 >
 > **Wie findest du das?**
 
 ---
 
-## Person A — Vor- und Nachteile
+### Person A — Vor- und Nachteile
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite können Eltern und enge Freunde sehr verletzt sein, wenn sie von diesem wichtigen Moment ausgeschlossen werden — das kann die Beziehung dauerhaft beschädigen.
-> Auf der anderen Seite zeigt eine kleine Hochzeit, dass es dem Paar um die Liebe geht und nicht um das Fest.
-> Zusätzlich ist eine große Hochzeit oft mehr für die Familie als für das Paar selbst — viele Paare fühlen sich dabei unter Druck gesetzt.
+> **(5)** Auf der einen Seite können Eltern und enge Freunde sehr verletzt sein, wenn sie von diesem wichtigen Moment ausgeschlossen werden — das kann die Beziehung dauerhaft beschädigen.
+> **(6)** Auf der anderen Seite zeigt eine kleine Hochzeit, dass es dem Paar um die Liebe geht und nicht um das Fest.
+> **(7)** Zusätzlich ist eine große Hochzeit oft mehr für die Familie als für das Paar selbst — viele Paare fühlen sich dabei unter Druck gesetzt.
 >
 > **Was hältst du davon?**
 
 ---
 
-## Person B — Eigene Erfahrung + Fazit
+### Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass das Verstecken einer Hochzeit vor den Eltern das Vertrauen in der Familie zerstören kann.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass
+> **(8)** das Verstecken einer Hochzeit vor den Eltern das Vertrauen in der Familie zerstören kann.
 >
-> Meiner Erfahrung nach habe ich gesehen, wie ein Paar heimlich geheiratet hat und die Eltern monatelang nicht mit ihnen gesprochen haben. Es hat lange gedauert, bis die Familie das akzeptiert hat.
+> **(9)** Meiner Erfahrung nach habe ich gesehen, wie ein Paar heimlich geheiratet hat und die Eltern monatelang nicht mit ihnen gesprochen haben.
+> **(10)** Es hat lange gedauert, bis die Familie das akzeptiert hat.
 >
 > Alles in allem bin ich der Meinung, dass eine Hochzeit nur zu zweit sowohl persönlich als auch riskant ist.
 >
@@ -108,6 +116,6 @@
 
 ---
 
-## Person A — Abschluss
+### Person A — Abschluss
 
 > Vielen Dank für diese interessante Diskussion. Ich vermute, dass unsere Diskussion sehr informativ und hilfreich war, und ich schätze deine Meinung und deinen Beitrag.

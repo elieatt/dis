@@ -1,4 +1,4 @@
-# Diskussion: Solarium im Winter — Gut für die Gesundheit?
+# Diskussion (V1): Solarium im Winter — Gut für die Gesundheit?
 
 ## النص الأصلي مع الترجمة
 
@@ -43,11 +43,17 @@
 
 ---
 
-## Person A — Eröffnung
+## Diskussion (Dialog)
+
+> **Nummerierte Sätze (N) = themenspezifischer Inhalt zum Auswendiglernen (10 Sätze). Nicht nummerierte Sätze = festes Gerüst.**
+
+### Person A — Eröffnung
 
 > In diesem Text wird das Thema **„Solarium im Winter — Gut für die Gesundheit?"** behandelt, das gegenwärtig intensiv zur Diskussion steht. Ich halte dieses Thema für äußerst relevant. Aus diesem Grund möchte ich mich im Folgenden vertieft damit auseinandersetzen.
 >
-> Der Autor des Textes bringt seine Meinung zum Thema **„Solarium im Winter"** zum Ausdruck und erörtert, dass Sonnenlicht für Gesundheit und gute Laune sehr wichtig ist, und ein Solarium im Winter helfen kann, diesen Mangel auszugleichen. Aber Ärzte warnen: Solarien können die Haut schädigen und Hautkrebs verursachen.
+> Der Autor des Textes bringt seine Meinung zum Thema zum Ausdruck und erörtert, dass
+> **(1)** Sonnenlicht für Gesundheit und gute Laune sehr wichtig ist und ein Solarium im Winter helfen kann, diesen Mangel auszugleichen.
+> **(2)** Aber Ärzte warnen: Solarien können die Haut schädigen und Hautkrebs verursachen.
 >
 > Meiner Meinung nach ist das Solarium im Winter sowohl **nützlich** als auch **gefährlich**.
 >
@@ -55,34 +61,36 @@
 
 ---
 
-## Person B — Erste Reaktion
+### Person B — Erste Reaktion
 
 > Was du gesagt hast, gefällt mir sehr. Ich finde es interessant, dass wir darüber diskutieren, da dieses Thema heutzutage viel Aufmerksamkeit bekommt. Meiner Meinung nach ist es wesentlich, nicht nur die Vorteile, sondern auch die Nachteile sorgfältig abzuwägen.
 >
-> Einerseits kann man feststellen, dass ein Solarium die Stimmung im Winter verbessern kann — viele Menschen fühlen sich nach einer Session energiegeladener und glücklicher.
-> Außerdem ist ein Solarium praktischer als eine Reise in ein sonniges Land, weil es günstig und jederzeit erreichbar ist.
+> **(3)** Einerseits kann man feststellen, dass ein Solarium die Stimmung im Winter verbessern kann — viele Menschen fühlen sich nach einer Session energiegeladener und glücklicher.
+> **(4)** Außerdem ist ein Solarium praktischer als eine Reise in ein sonniges Land, weil es günstig und jederzeit erreichbar ist.
 >
 > **Wie findest du das?**
 
 ---
 
-## Person A — Vor- und Nachteile
+### Person A — Vor- und Nachteile
 
 > Ja, ich stimme dir zu. Ich bin der Ansicht, dass es unerlässlich ist, sowohl die Vor- als auch die Nachteile gut zu bedenken.
 >
-> Auf der einen Seite gibt es günstigere und sicherere Alternativen — zum Beispiel Vitamin-D-Tabletten oder eine Lichttherapielampe zu Hause.
-> Auf der anderen Seite nutzen manche Menschen das Solarium aus medizinischen Gründen, zum Beispiel bei Hauterkrankungen wie Schuppenflechte.
-> Zusätzlich sollte jeder Arzt fragen, bevor er ins Solarium geht — besonders wenn er Medikamente nimmt, die die Haut lichtempfindlich machen.
+> **(5)** Auf der einen Seite gibt es günstigere und sicherere Alternativen — zum Beispiel Vitamin-D-Tabletten oder eine Lichttherapielampe zu Hause.
+> **(6)** Auf der anderen Seite nutzen manche Menschen das Solarium aus medizinischen Gründen, zum Beispiel bei Hauterkrankungen wie Schuppenflechte.
+> **(7)** Zusätzlich sollte jeder Arzt fragen, bevor er ins Solarium geht — besonders wenn er Medikamente nimmt, die die Haut lichtempfindlich machen.
 >
 > **Was hältst du davon?**
 
 ---
 
-## Person B — Eigene Erfahrung + Fazit
+### Person B — Eigene Erfahrung + Fazit
 
-> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass viele Menschen das Solarium zu oft besuchen und dabei das Risiko unterschätzen.
+> Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass
+> **(8)** viele Menschen das Solarium zu oft besuchen und dabei das Risiko unterschätzen.
 >
-> Meiner Erfahrung nach habe ich gesehen, wie ein Bekannter das Solarium wöchentlich nutzte, um braun zu bleiben — bis sein Arzt ihm sagte, dass seine Haut bereits geschädigt war. Seitdem benutzt er eine Lichtlampe zu Hause.
+> **(9)** Meiner Erfahrung nach habe ich gesehen, wie ein Bekannter das Solarium wöchentlich nutzte, um braun zu bleiben — bis sein Arzt ihm sagte, dass seine Haut bereits geschädigt war.
+> **(10)** Seitdem benutzt er eine Lichtlampe zu Hause.
 >
 > Alles in allem bin ich der Meinung, dass das Solarium im Winter sowohl nützlich als auch gefährlich ist.
 >
@@ -90,6 +98,6 @@
 
 ---
 
-## Person A — Abschluss
+### Person A — Abschluss
 
 > Vielen Dank für diese interessante Diskussion. Ich vermute, dass unsere Diskussion sehr informativ und hilfreich war, und ich schätze deine Meinung und deinen Beitrag.

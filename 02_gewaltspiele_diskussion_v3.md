@@ -1,85 +1,112 @@
 # Diskussion (V3): Verbot von Gewaltspielen – Pro und Contra
 
-> **Format:** Monolog (Modellantwort) — dein vorbereiteter Redebeitrag für Teil 2.
-> Nummerierte Sätze **(N)** = der themenspezifische Inhalt zum Auswendiglernen (**15 Sätze**).
-> Nicht nummerierte Sätze = festes Gerüst (für jedes Thema gleich).
+## النص الأصلي مع الترجمة
+
+**1.** Nachdem sich in Deutschland mehrere Male Amokläufe ereigneten, bei denen die Täter Jugendliche waren, die teilweise noch zur Schule gingen, wurde von Lehrern und Politikern das Verbot Gewaltverherrlichender Computerspiele gefordert.
+بعد وقوع عدة حوادث إطلاق نار جماعي في ألمانيا، كان منفذوها شباباً بعضهم لا يزال في سن الدراسة، طالب المعلمون والسياسيون بحظر ألعاب الفيديو التي تُمجّد العنف.
+
+**2.** Doch abgesehen davon, dass ein solches Verbot kaum umsetzbar ist, ist unklar, ob es überhaupt Sinn ergibt und Gewalttaten verringern oder gar vermeiden würde.
+غير أنه بصرف النظر عن صعوبة تطبيق مثل هذا الحظر، يبقى غير واضح ما إذا كان منطقياً أصلاً، وما إذا كان سيُقلّل من أعمال العنف أو يمنعها.
+
+**3.** Einige Politiker meinen, dass man die globale und höchst problematische Diskussion um Gewaltausbrüche bei der jungen Generation nicht auf das bloße Verbot von Computerspielen verengen sollte.
+يرى بعض السياسيين أنه لا ينبغي تضييق النقاش العالمي والبالغ الحساسية حول موجة العنف لدى الجيل الشاب في مجرد حظر ألعاب الفيديو.
+
+**4.** Vielmehr sollte das Gewaltphänomen breiter analysiert werden.
+بل يجب تحليل ظاهرة العنف بصورة أوسع.
+
+**5.** Denn es sind komplexe Prozesse, die schließlich zu einem schrecklichen Ereignis führen können und nicht allein auf das Spielen solcher „Killerspiele" zurückzuführen sind.
+ذلك لأن ثمة عمليات معقدة تُفضي في نهاية المطاف إلى حوادث مروعة، ولا يمكن إرجاعها وحدها إلى ممارسة هذه "ألعاب القتل".
+
+**6.** Vielmehr spielt da das Umfeld des Kindes eine entscheidende Rolle, vor allem seine Eltern und Lehrer.
+بل إن البيئة المحيطة بالطفل تؤدي دوراً حاسماً، ولا سيما والداه ومعلموه.
+
+**7.** Sie sollen für den Heranwachsenden richtige Vorbilder sein.
+ينبغي أن يكونوا قدوة حسنة للناشئ.
+
+**8.** Wenn sich das Kind einsam fühlt und zu den fraglichen Computerspielen greift, wäre es verfehlt, lediglich die Spiele für den möglichen Gewaltausbruch verantwortlich zu machen.
+وإذا شعر الطفل بالوحدة ولجأ إلى هذه الألعاب المشكوك فيها، فمن الخطأ إلقاء المسؤولية على الألعاب وحدها عن أي انفجار محتمل للعنف.
+
+**9.** Folglich würde ein Verbot am eigentlichen Ziel vorbei laufen.
+وبالتالي سيفشل الحظر في تحقيق هدفه الحقيقي.
+
+**10.** Auf der anderen Seite bekommen Kinder in solchen Spielen virtuelle Vorbilder zu sehen.
+في المقابل، تعرض هذه الألعاب على الأطفال نماذج افتراضية للتقليد.
+
+**11.** Brutale Computerspiele und Videofilme gaukeln Jugendliche den schnellen Sieg des Stärkeren vor und Auswege für den Verlierer bieten sie nicht.
+تُوهم ألعاب الفيديو والأفلام العنيفة الشبابَ بأن القوي ينتصر دائماً وبسرعة، دون أن تقدم أي مخرج للخاسر.
+
+**12.** Wer andere Menschen mordet, der ist stark und wird als Gewinner geehrt.
+من يقتل الآخرين يُعدّ قوياً ويُحتفى به كفائز.
+
+**13.** Diese logischen Denkweisen werden vom heranwachsenden Gehirn aufgenommen und fälschlicherweise, wenn auch unter Einfluss anderer Faktoren, in die Wirklichkeit projiziert.
+تستوعب الأدمغة النامية هذه الأنماط الفكرية وتُسقطها خطأً على الواقع — وإن كان ذلك بتأثير عوامل أخرى أيضاً.
+
+**14.** Genau deshalb soll das Verbot ausgesprochen werden, und zwar sowohl ein Herstellungs- als auch ein Verbreitungsverbot.
+ولهذا السبب بالذات يجب إصدار الحظر، شاملاً منع الإنتاج والتوزيع معاً.
+
+**15.** Das sei nach Meinung der Verbotsbefürworter notwendig, damit Jugendliche nicht zum Töter anderer Menschen motiviert werden, egal ob real oder virtuell.
+ويرى المؤيدون للحظر أن ذلك ضروري حتى لا يُحفَّز الشباب على قتل الآخرين، سواء في العالم الحقيقي أم الافتراضي.
+
+**16.** Würden sie im Falle einer Vernachlässigung durch Familie oder Freunde zu Freizeitaktivitäten greifen, die keine Gewalt beinhalten, so würden sie auch keine gewaltbereiten Pseudo-starken Figuren vor Augen haben und viel weniger Lust verspüren, denen irgendwann ähnlich zu sein.
+ولو لجأ هؤلاء الشباب، عند إهمال العائلة أو الأصدقاء لهم، إلى أنشطة ترفيهية خالية من العنف، لما كان أمامهم شخصيات زائفة مستعدة للعنف، ولشعروا بدافع أقل بكثير للتشبه بها يوماً ما.
 
 ---
 
-## Modellantwort
+## Modellantwort (Monolog)
+
+> **Nummerierte Sätze (N) = themenspezifischer Inhalt zum Auswendiglernen (15 Sätze). Nicht nummerierte Sätze = festes Gerüst.**
 
 ### 1. Einleitung
 
 > Wie ich den Text verstanden habe, geht es um das Thema „Verbot von Gewaltspielen – Pro und Contra".
-> كما فهمت النص، فهو يتحدث عن موضوع "حظر ألعاب العنف: مع أو ضد".
 >
 > **(1)** Der Autor stellt die Argumente der Befürworter und Gegner eines Verbots von Gewaltspielen vor.
-> يعرض الكاتب حجج المؤيدين والمعارضين لحظر ألعاب العنف.
 >
 > **(2)** Außerdem wird erklärt, welche Auswirkungen solche Spiele auf Kinder und Jugendliche haben können und welche Rolle Familie und Schule dabei spielen.
-> كما يوضح التأثيرات التي قد تتركها هذه الألعاب على الأطفال والشباب، والدور الذي تلعبه الأسرة والمدرسة في ذلك.
 >
 > **(3)** Darüber hinaus wird die Frage gestellt, ob ein Verbot überhaupt sinnvoll und in der Praxis umsetzbar wäre.
-> وفوق ذلك يُطرح السؤال عمّا إذا كان الحظر منطقيًا وقابلًا للتطبيق على أرض الواقع أصلًا.
 
 ### 2. Vor- und Nachteile
 
 > Wie bei vielen anderen Themen gibt es auch hier sowohl Vorteile als auch Nachteile, die man berücksichtigen sollte.
-> كما هو الحال في العديد من المواضيع الأخرى، توجد هنا أيضًا إيجابيات وسلبيات يجب أخذها بعين الاعتبار.
 >
 > **(4)** Einerseits machen Computerspiele vielen Kindern Spaß und gehören zu ihren beliebtesten Freizeitaktivitäten.
-> من جهة، تمنح ألعاب الكمبيوتر الكثير من الأطفال المتعة وتعتبر من أكثر أنشطة الترفيه المفضلة لديهم.
 >
 > **(5)** Außerdem können sie die Konzentrationsfähigkeit und das Reaktionsvermögen fördern.
-> كما يمكن أن تساعد على تحسين التركيز وسرعة الاستجابة.
 >
 > Andererseits sollte man die möglichen Nachteile nicht außer Acht lassen.
-> ومن جهة أخرى لا ينبغي تجاهل السلبيات المحتملة.
 >
 > **(6)** Zum Beispiel können Gewaltspiele aggressives Verhalten fördern und Kinder an Gewaltszenen gewöhnen.
-> فمثلًا قد تشجع ألعاب العنف السلوك العدواني وتجعل الأطفال يعتادون على مشاهد العنف.
 >
 > **(7)** Darüber hinaus verbringen manche Kinder zu viel Zeit vor dem Bildschirm und vernachlässigen dadurch Sport, Schule oder soziale Kontakte.
-> وفوق ذلك يقضي بعض الأطفال وقتًا طويلًا أمام الشاشة، مما يؤدي إلى إهمال الرياضة أو الدراسة أو العلاقات الاجتماعية.
 >
 > Aus diesem Grund ist es wichtig, die Situation aus verschiedenen Perspektiven zu betrachten.
-> ولهذا السبب من المهم النظر إلى الموضوع من زوايا مختلفة.
 
 ### 3. Persönliche Erfahrung
 
 > **(8)** Als ich jünger war, habe ich selbst viel Zeit mit Computerspielen verbracht.
-> عندما كنت أصغر سنًا، كنت أقضي وقتًا طويلًا في ألعاب الكمبيوتر.
 >
 > **(9)** Mit der Zeit habe ich jedoch festgestellt, dass ich dadurch weniger Zeit für Sport und andere wichtige Aktivitäten hatte.
-> لكن مع الوقت لاحظت أن ذلك كان يترك لي وقتًا أقل للرياضة والأنشطة المهمة الأخرى.
 >
 > **(10)** Deshalb versuche ich heute, meine Freizeit besser zu organisieren und Computerspiele nur in Maßen zu nutzen.
-> لذلك أحاول اليوم تنظيم وقت فراغي بشكل أفضل واستخدام ألعاب الكمبيوتر باعتدال فقط.
 
 ### 4. Vergleich mit dem Heimatland
 
 > Wenn ich dieses Thema mit meinem Heimatland vergleiche, fallen mir einige Gemeinsamkeiten auf.
-> عندما أقارن هذا الموضوع ببلدي، ألاحظ بعض أوجه التشابه.
 >
 > **(11)** In meinem Heimatland verbringen viele Kinder ebenfalls viel Zeit mit Computerspielen, besonders mit Online-Spielen.
-> في بلدي أيضًا يقضي الكثير من الأطفال وقتًا طويلًا في ألعاب الكمبيوتر، وخاصة الألعاب الإلكترونية.
 >
 > **(12)** Allerdings achten viele Eltern darauf, welche Spiele ihre Kinder spielen und wie viel Zeit sie damit verbringen.
-> ومع ذلك يحرص الكثير من الآباء على معرفة الألعاب التي يلعبها أطفالهم والوقت الذي يقضونه فيها.
 
 ### 5. Fazit
 
 > Abschließend möchte ich sagen, dass Gewaltspiele sowohl Vor- als auch Nachteile haben.
-> في الختام أود أن أقول إن لألعاب العنف إيجابيات وسلبيات.
 >
 > **(13)** Meiner Meinung nach liegt das Problem nicht nur bei den Spielen selbst, sondern auch im familiären und sozialen Umfeld.
-> برأيي لا تكمن المشكلة في الألعاب نفسها فقط، بل أيضًا في البيئة الأسرية والاجتماعية.
 >
 > **(14)** Deshalb sollten Eltern und Lehrer Kinder besser begleiten und ihnen attraktive Freizeitaktivitäten anbieten.
-> لذلك يجب على الآباء والمعلمين مرافقة الأطفال بشكل أفضل وتوفير أنشطة ترفيهية مفيدة لهم.
 >
 > **(15)** Letztendlich sollte man nicht nur Verbote diskutieren, sondern auch nach langfristigen Lösungen suchen.
-> وفي النهاية لا ينبغي الاكتفاء بمناقشة الحظر فقط، بل يجب البحث عن حلول طويلة الأمد.
 
 ---
 
