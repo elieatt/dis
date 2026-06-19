@@ -95,7 +95,7 @@
 > Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass
 > **(8)** sich die Schulen am Ende nur auf die Tests konzentrieren und das Wichtigste vergessen.
 >
-> **(9)** Meiner Erfahrung nach waren die besten Lehrer nicht die mit den besten Noten, sondern die, die uns motiviert haben.
+> **(9)** Meiner Erfahrung nach waren die besten Lehrer nicht die strengsten, sondern die, die uns wirklich motiviert und begeistert haben.
 > **(10)** Deshalb glaube ich, dass Tests allein nicht zeigen, ob eine Schule wirklich gut ist.
 >
 > Alles in allem bin ich der Meinung, dass die Messung von Schulqualität sowohl nützlich als auch unvollständig ist.

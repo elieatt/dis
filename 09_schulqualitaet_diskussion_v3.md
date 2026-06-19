@@ -81,7 +81,7 @@
 
 ### 3. Persönliche Erfahrung
 
-> **(8)** Ich selbst erinnere mich, dass die besten Lehrer in meiner Schulzeit nicht die mit den besten Noten waren, sondern die, die uns wirklich motiviert haben.
+> **(8)** Ich selbst erinnere mich, dass die besten Lehrer nicht die strengsten waren, sondern die, die uns wirklich motiviert und begeistert haben.
 
 ### 4. Vergleich mit dem Heimatland
 
