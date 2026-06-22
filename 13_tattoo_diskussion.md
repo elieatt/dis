@@ -96,7 +96,7 @@
 >
 > **(5)** Auf der einen Seite kann man ein Tattoo später bereuen, zum Beispiel den Namen eines früheren Partners.
 > **(6)** Auf der anderen Seite zeigt ein Tattoo die Persönlichkeit und den eigenen Geschmack.
-> **(7)** Zusätzlich ist das Entfernen mit Laser oft langwierig, teuer und schmerzhaft.
+> **(7)** Zusätzlich lässt sich ein Tattoo nur schwer wieder entfernen, denn die Laserbehandlung ist langwierig, teuer und schmerzhaft.
 >
 > **Was hältst du davon?**
 
@@ -107,7 +107,7 @@
 > Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass
 > **(8)** ein sichtbares Tattoo im Beruf manchmal zu Problemen führen kann.
 >
-> **(9)** Meiner Erfahrung nach kenne ich jemanden, der sein Tattoo heute bereut, weil es nicht mehr zu seinem Leben passt.
+> **(9)** Meiner Erfahrung nach habe ich selbst kein Tattoo, weil ich finde, dass es nicht professionell wirkt und nicht zu mir passt.
 > **(10)** Deshalb finde ich, dass man eine solche Entscheidung gut überlegen sollte.
 >
 > Alles in allem bin ich der Meinung, dass ein Tattoo sowohl beliebt als auch riskant ist.

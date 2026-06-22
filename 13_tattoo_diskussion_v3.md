@@ -87,21 +87,21 @@
 >
 > **(6)** Zum Beispiel kann man ein Tattoo später bereuen, vor allem wenn es den Namen eines früheren Partners zeigt.
 >
-> **(7)** Darüber hinaus ist das Entfernen mit Laser oft langwierig, teuer und schmerzhaft.
+> **(7)** Darüber hinaus lässt sich ein Tattoo nur schwer wieder entfernen, denn die Laserbehandlung ist langwierig, teuer und schmerzhaft.
 >
 > Aus diesem Grund ist es wichtig, die Situation aus verschiedenen Perspektiven zu betrachten.
 
 ### 3. Persönliche Erfahrung
 
-> **(8)** Ich selbst kenne jemanden, der sich jung ein Tattoo stechen ließ und es heute bereut, weil es nicht mehr zu seinem Leben passt.
+> **(8)** Ich selbst habe kein Tattoo, weil ich finde, dass es nicht professionell wirkt und nicht zu mir passt.
 
 ### 4. Vergleich mit dem Heimatland
 
 > Wenn ich dieses Thema mit meinem Heimatland vergleiche, fallen mir einige Unterschiede auf.
 >
-> **(9)** In meinem Heimatland sind Tattoos bei jungen Leuten zwar beliebt, aber viele ältere Menschen sehen sie noch kritisch.
+> **(9)** In meinem Heimatland sind Tattoos nicht verbreitet, vor allem wegen der Religion und der Traditionen.
 >
-> **(10)** Allerdings tragen immer mehr Menschen ein Tattoo, weil sich die Einstellung langsam ändert.
+> **(10)** Viele Familien und auch die Gesellschaft lehnen Tattoos ab, deshalb trauen sich nur wenige Menschen, eines zu tragen.
 
 ### 5. Fazit
 
