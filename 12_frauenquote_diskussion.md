@@ -98,7 +98,7 @@
 > Du hast voll und ganz Recht. Es gibt mehrere Nachteile, wie zum Beispiel, dass
 > **(8)** viele Frauen trotz guter Ausbildung schlechter bezahlt werden als Männer.
 >
-> **(9)** Meiner Erfahrung nach habe ich erlebt, wie eine sehr fähige Frau bei einer Beförderung übergangen wurde.
+> **(9)** Meiner Erfahrung nach habe ich erlebt, wie eine Kollegin eine Führungsstelle nicht bekam, weil der Chef Angst hatte, sie könnte bald Kinder bekommen – und ein weniger qualifizierter Mann bekam die Stelle.
 > **(10)** Deshalb glaube ich, dass solche Gesetze leider noch nötig sind.
 >
 > Alles in allem bin ich der Meinung, dass die Frauenquote sowohl notwendig als auch umstritten ist.

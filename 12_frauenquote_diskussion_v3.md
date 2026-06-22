@@ -84,7 +84,7 @@
 
 ### 3. Persönliche Erfahrung
 
-> **(8)** Ich selbst habe schon erlebt, wie eine sehr fähige Frau bei einer Beförderung übergangen wurde, obwohl sie die beste Kandidatin war.
+> **(8)** Ich selbst habe in einem früheren Job erlebt, wie eine Kollegin eine Führungsstelle nicht bekam, weil der Chef befürchtete, sie könnte bald Kinder bekommen – die Stelle ging am Ende an einen weniger qualifizierten Mann.
 
 ### 4. Vergleich mit dem Heimatland
 
