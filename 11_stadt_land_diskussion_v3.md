@@ -90,9 +90,9 @@
 
 > Wenn ich dieses Thema mit meinem Heimatland vergleiche, fallen mir einige Unterschiede auf.
 >
-> **(9)** In meinem Heimatland träumen viele Familien von einem eigenen Haus, weil eine Wohnung in der Stadt oft sehr teuer ist.
+> **(9)** In meinem Heimatland legen die meisten Menschen großen Wert darauf, ein eigenes Haus zu besitzen, weil das als Zeichen von Sicherheit und Erfolg gilt.
 >
-> **(10)** Allerdings ziehen junge Leute trotzdem in die Stadt, weil sie dort leichter Arbeit finden.
+> **(10)** Allerdings ziehen viele junge Leute trotzdem in die Stadt, weil sie dort leichter Arbeit und ein modernes Leben finden.
 
 ### 5. Fazit
 
